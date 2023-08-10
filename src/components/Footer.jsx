@@ -39,7 +39,7 @@ const Footer = () => {
                             href="https://github.com/pritampaul02"
                             target="blank"
                         >
-                            Pritam
+                            Pritam Paul
                         </a>
                     </Text>
                 </VStack>
